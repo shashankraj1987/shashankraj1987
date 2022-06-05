@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shashankraj1987
 - 👀 I’m interested in Data Science, Machine Learning, JavaScript.
-- 🌱 I’m currently learning Data Science with R & Python and Javascript. 
-- 💞️ I’m looking to collaborate on Javascript, Plotly and other Graphing Libraries
+- 🌱 I’m currently learning Data Science Python, Javascript and DS_Algo. 
+- 💞️ I’m looking to collaborate on Python Projects. 
 - 📫 You Can reach me on sraj.050121@gmail.com
 
 <!---
